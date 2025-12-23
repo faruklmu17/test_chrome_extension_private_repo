@@ -1,0 +1,23 @@
+{
+  "name": "test_chrome_extension_private_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faruklmu17/test_chrome_extension_private_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/faruklmu17/test_chrome_extension_private_repo/issues"
+  },
+  "homepage": "https://github.com/faruklmu17/test_chrome_extension_private_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
